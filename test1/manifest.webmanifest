@@ -4,7 +4,7 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "img/oren-digital-icon.png",
+      "src": "icon/fox-icon.png",
       "sizes": "200x200",
       "type": "image/png"
     }
