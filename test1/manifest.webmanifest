@@ -1,15 +1,15 @@
 {
-  "background_color": "purple",
-  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "background_color": "orange",
+  "description": "Hello! I'm Seng Yi, a Web Tech & Ops specialist based in Singapore. I will share on web technology-related articles, mostly are problems and solutions which I faced throughout my careers.",
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/fox-icon.png",
-      "sizes": "192x192",
+      "src": "img/oren-digital-icon.png",
+      "sizes": "200x200",
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures",
-  "short_name": "Foxes",
-  "start_url": "/orendigital/test1/index.html"
+  "name": "Oren Digital",
+  "short_name": "Oren",
+  "start_url": "https://www.oren-digital.com/?v1"
 }
