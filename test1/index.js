@@ -15,7 +15,7 @@ setInterval(function() {
 
 if('serviceWorker' in navigator) {
   navigator.serviceWorker
-           .register('/test1/sw.js')
+           .register('/orendigital/test1/sw.js')
            .then(function() { console.log('Service Worker Registered'); });
 }
 
